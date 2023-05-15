@@ -1,1 +1,1 @@
-# video-preview
+# video-preview is a school assignment
